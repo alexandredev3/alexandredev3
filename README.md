@@ -1,5 +1,5 @@
  
-### 👨️ Olá, meu nome é Alexandre e sou apaixonado por programação, <br />sempre buscando o **próximo nível**. 🚀️
+### 👨️ Olá, meu nome é Alexandre e gosto muito de programação, <br />sempre buscando o **próximo nível**. 🚀️
 <p>
   <a href="https://www.linkedin.com/in/alexandre-costa-401699199">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Alexandre%20Costa-9871F5?label=Linkedin&logo=linkedin&style=flat-square">
