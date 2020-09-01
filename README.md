@@ -1,5 +1,10 @@
  
 ### 👨️ Olá, meu nome é Alexandre e sou apaixonado por programação, <br />sempre buscando o **próximo nível**. 🚀️
+<p>
+  <a href="https://www.linkedin.com/in/alexandre-costa-401699199">
+    <img alt="Linkedin" src="https://img.shields.io/badge/-Alexandre%20Costa-9871F5?label=Linkedin&logo=linkedin&style=flat-square">
+  </a>
+</p>
 
 ### 🛠️ Tecnologias
 #### 😎️ Tenho experiência
@@ -27,11 +32,3 @@
  
   - __Sistema operacional__: [Linux Mint](https://linuxmint.com/)
   - __Editor de código__: [Visual Studio Code](https://code.visualstudio.com/)
- 
-<p align="center">
-  👋🏽 Entre em contato!🚀
-  <br />
-  <a href="https://www.linkedin.com/in/alexandre-costa-401699199">
-    <img alt="Linkedin" src="https://img.shields.io/badge/-Alexandre%20Costa-9871F5?label=Linkedin&logo=linkedin&style=flat-square">
-  </a>
-</p>
