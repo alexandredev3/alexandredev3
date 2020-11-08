@@ -7,6 +7,6 @@ Sou desenvolvedor Full-Stack!
 
 - :fire: Habilidades técnicas: Javascript, Typescript, Html, Css, Node.js, React.js, Next.js, React Native, Docker, MongoDB, Postgresql.
 - :computer: Ambiente de Desenvolvimento:
- - Sistema Operacional: Ubuntu
- - Editor de Código: Visual Studio Code
+  - Sistema Operacional: Ubuntu
+  - Editor de Código: Visual Studio Code
 
