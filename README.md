@@ -5,20 +5,28 @@
 
 Desenvolvedor Full-Stack!
 
-``` html
-<body>
- <ul>
-  <li>
-   :fire: Habilidades técnicas: 
-   Javascript, Typescript, Html, Css, Node.js, React.js, Next.js, React Native, Docker, MongoDB, Postgresql.
-  </li>
-  <li>
-   :computer: Ambiente de Desenvolvimento:
-   <ol>Sistema Operacional: Ubuntu</ol>
-   <ol>Editor de Código: Visual Studio Code</ol>
-  </li>
- </ul>
-</body>
+``` js
+export default function App() {
+ ...
+ return (
+  <main>
+    <ul>
+      <li>
+        :fire: Habilidades técnicas: { techs }
+      </li>
+      <li>
+        :computer: Ambiente de Desenvolvimento:
+        <ol>
+          Sistema Operacional: { os }
+        </ol>
+        <ol>
+          Editor de Código: { code_editor }
+        </ol>
+      </li>
+    </ul>
+  </main>
+ );
+}
 ```
 
 - :fire: Habilidades técnicas: Javascript, Typescript, Html, Css, Node.js, React.js, Next.js, React Native, Docker, MongoDB, Postgresql.
