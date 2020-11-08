@@ -1,34 +1,12 @@
  
-### 👨️ Olá, meu nome é Alexandre e gosto muito de programação, <br />sempre buscando o **próximo nível**. 🚀️
-<p>
-  <a href="https://www.linkedin.com/in/alexandre-costa-401699199">
-    <img alt="Linkedin" src="https://img.shields.io/badge/-Alexandre%20Costa-9871F5?label=Linkedin&logo=linkedin&style=flat-square">
-  </a>
-</p>
+# Alexandre Costa 🚀️
+## Olá! seja bem-vindo(a) ao meu perfil!
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-costa-401699199/)](https://www.linkedin.com/in/alexandre-costa-401699199/)
 
-### 🛠️ Tecnologias
-#### 😎️ Tenho experiência
-  - [Javascript]()
-  - [Typescript](https://www.typescriptlang.org/)
-  - [Html]()
-  - [Css]()
-  - [NodeJS](https://nodejs.org/en/)
-  - [ReactJS](https://pt-br.reactjs.org/)
-  - [React Native](https://reactnative.dev/)
-  - [Postgresql](https://www.postgresql.org/)
-  - [MySql](https://www.mysql.com/)
-  - [MongoDB](https://www.mongodb.com/)
-  - [Redis](https://redis.io/)
-  
- #### 📖️ Estou estudando
-  - [Java](https://www.java.com/pt_BR/)
-  
- #### 🤔️ Tenho interesse
-  - [Flutter](https://flutter.dev/?gclid=Cj0KCQjw4f35BRDBARIsAPePBHzoWJD3K5Y6PlakqtekpC3YxRxncnL8FtM3bUdExqy1r8BqpU_C_hYaAgx0EALw_wcB&gclsrc=aw.ds)
-  - [AngularJS](https://angularjs.org/)
-  - [VueJS](https://vuejs.org/)
-  
- ### 💻️ Ambiente de desenvolvimento
- 
-  - __Sistema operacional__: [Linux Mint](https://linuxmint.com/)
-  - __Editor de código__: [Visual Studio Code](https://code.visualstudio.com/)
+Sou desenvolvedor Full-Stack!
+
+- :fire: Habilidades técnicas: Javascript, Typescript, Html, Css, Node.js, React.js, Next.js, React Native, Docker, MongoDB, Postgresql.
+- :computer: Ambiente de Desenvolvimento:
+ - Sistema Operacional: Ubuntu
+ - Editor de Código: Visual Studio Code
+
