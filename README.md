@@ -3,7 +3,7 @@
 ## Olá! :wave: seja bem-vindo(a) ao meu perfil!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-costa-401699199/)](https://www.linkedin.com/in/alexandre-costa-401699199/)
 
-Desenvolvedor Full-Stack!
+Software Engineer - Node.js, React.js, React Native.
 
 ``` js
 export default function App() {
