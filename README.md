@@ -4,7 +4,7 @@ Meu nome é Alexandre Costa sou Software Engineer. Atualmente estou criando meus
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-costa-401699199/)](https://www.linkedin.com/in/alexandre-costa-401699199/)
 
-- :fire: Habilidades técnicas: Javascript, Typescript, Html, Css, Node.js, React.js, Next.js, React Native, Docker, MongoDB, Postgresql.
+- :fire: Habilidades técnicas: Typescript, Javascript, Html, Css, Node.js, React.js, React Native, Next.js, Docker, MongoDB, Redis, Postgresql, Firebase.
 - :computer: Ambiente de Desenvolvimento:
   - Sistema Operacional: Ubuntu
   - Editor de Código: Visual Studio Code
