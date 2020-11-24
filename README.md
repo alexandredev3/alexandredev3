@@ -1,6 +1,6 @@
  
 # Seja Bem-vindo(a) ao meu GitHub 🚀️
-Olá! meu nome é Alexandre sou Software Engineer. Atualmente estou criando meus projetos com a Stack: Node.js, React.js e React Native.
+Olá! meu nome é Alexandre Costa sou Software Engineer. Atualmente estou criando meus projetos com a Stack: Node.js, React.js e React Native.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-costa-401699199/)](https://www.linkedin.com/in/alexandre-costa-401699199/)
 [![Twitter badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/alexandredevv)](https://twitter.com/alexandredevv)
