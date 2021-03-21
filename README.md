@@ -5,7 +5,6 @@ sempre estou em busca do próximo nível aprendendo algo novo todos os dias.🚀
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-costa-dos-santos/)](https://www.linkedin.com/in/alexandre-costa-dos-santos/)
 [![Twitter badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/alexandredevv)](https://twitter.com/alexandredevv)
-[![Instagram badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/alexandre__dev__)](https://www.instagram.com/alexandre__dev__/)
 
 - :fire: Habilidades técnicas: Typescript, Javascript, Html, Css, Node.js, React.js, React Native, Next.js, Docker, MongoDB, Redis, Postgresql, Firebase.
 - :computer: Ambiente de Desenvolvimento:
