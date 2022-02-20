@@ -47,14 +47,14 @@
 <ul>
  <li>
   <span>
-   <img src="./icons/linkedin.svg" width="20px" align="center" />
+   <img src="./icons/linkedin.svg" width="16px" align="center" />
    <a href="https://www.linkedin.com/in/alexandre-costa-dos-santos/" target="_blank">Alexandre Costa Dos Santos</a>
   </span>
  </li>
   <li>
   <span>
-   <img src="./icons/twitter.svg" width="20px" align="center" />
-   <a href="https://twitter.com/alexandredevv" target="_blank">Alexandre Costa Dos Santos</a>
+   <img src="./icons/twitter.svg" width="16px" align="center" />
+   <a href="https://twitter.com/alexandredevv" target="_blank">alexandredevv</a>
   </span>
  </li>
 </ul>
