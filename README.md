@@ -47,21 +47,21 @@
 <ul>
  <li>
   <span>
-   <img src="./icons/code.svg" width="20px" align="center" />
+   <img src="./icons/linkedin.svg" width="20px" align="center" />
    <a href="https://www.linkedin.com/in/alexandre-costa-dos-santos/" target="_blank">Alexandre Costa Dos Santos</a>
   </span>
  </li>
   <li>
   <span>
-   <img src="./icons/code.svg" width="20px" align="center" />
+   <img src="./icons/twitter.svg" width="20px" align="center" />
    <a href="https://twitter.com/alexandredevv" target="_blank">Alexandre Costa Dos Santos</a>
   </span>
  </li>
 </ul>
 
 <a href="https://www.linkedin.com/in/alexandre-costa-dos-santos/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-alexandre-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-alexandre-77133E?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://twitter.com/alexandredevv" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-alexandre-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-alexandre-77133E?style=flat&logo=twitter" alt="twitter"/>  
 </a>
