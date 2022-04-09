@@ -47,11 +47,17 @@
 <ul>
  <li>
   <span>
+   <img src="./icons/gmail.svg" width="16px" align="center" />
+   <a href="mailto:contado.alexandre.costa@gmail.com" target="_blank">contado.alexandre.costa@gmail.com</a>
+  </span>
+ </li>
+ <li>
+  <span>
    <img src="./icons/linkedin.svg" width="16px" align="center" />
    <a href="https://www.linkedin.com/in/alexandre-costa-dos-santos/" target="_blank">Alexandre Costa Dos Santos</a>
   </span>
  </li>
-  <li>
+ <li>
   <span>
    <img src="./icons/twitter.svg" width="16px" align="center" />
    <a href="https://twitter.com/alexandredevv" target="_blank">alexandredevv</a>
@@ -59,6 +65,9 @@
  </li>
 </ul>
 
+<a href="mailto:contado.alexandre.costa@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-contado.alexandre.costa@gmail.com-77133E?style=flat&logo=gmail" alt="gmail"/>  
+</a>
 <a href="https://www.linkedin.com/in/alexandre-costa-dos-santos/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-alexandre-77133E?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
