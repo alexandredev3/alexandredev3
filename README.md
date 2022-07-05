@@ -1,6 +1,6 @@
  
 <h1>
-  Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, My name is Alexandre
+  Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="50">, My name is Alexandre
 </h1>
 
 <ul>
