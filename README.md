@@ -28,7 +28,7 @@
 ![Gitlab](https://img.shields.io/badge/-Gitlab-77133E?style=flat&logo=gitlab)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-77133E?style=flat&logo=postgresql)&nbsp;
 
-#### Let's connect!
+#### 🙋‍♂️ Let's connect!
 
 <a href="mailto:contado.alexandre.costa@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-contado.alexandre.costa@gmail.com-77133E?style=flat&logo=gmail" alt="gmail"/>  
@@ -40,6 +40,6 @@
   <img align="center" src="https://img.shields.io/badge/-alexandre-77133E?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 
-#### GitHub Analytics
+#### 📊 GitHub Analytics
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=alexandredev3&show_icons=true&theme=great-gatsby" alt="alexandre's stats"/>
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandredev3&layout=compact&theme=great-gatsby" alt="alexandre's most languages"/>
