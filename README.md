@@ -14,8 +14,6 @@
   </span>
  </li>
 </ul>
-
-<div align="center">
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-77133E?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-77133E?style=flat&logo=typescript)&nbsp;
@@ -29,8 +27,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-77133E?style=flat&logo=github)&nbsp;
 ![Gitlab](https://img.shields.io/badge/-Gitlab-77133E?style=flat&logo=gitlab)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-77133E?style=flat&logo=postgresql)&nbsp;
- 
-</div>
 
 #### Let's connect!
 
