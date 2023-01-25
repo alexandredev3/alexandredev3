@@ -1,30 +1,22 @@
- 
-<h1>
-  Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="50">, My name is Alexandre
-</h1>
+<h2>
+  Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="32">, My name is Alexandre
+</h2>
 
 <ul>
  <li>
   <span>
-   <img src="./icons/code.svg" width="20px" align="center" />
-   I'm a Front-End developer.
+   👨‍💻 I'm a Web Developer.
   </span>
  </li>
  <li>
   <span>
-   <img src="./icons/react.svg" width="20px" align="center" />
-   I'm currently working with React.js.
-  </span>
- </li>
- <li>
-  <span>
-   <img src="./icons/bulb.svg" width="14px" align="center" />
-    I regularly post tips about javascript on <a href="https://www.linkedin.com/in/alexandre-costa-dos-santos/" target="_blank">linkedin.com/in/alexandre-costa-dos-santos/</a>.
+   ⚛️ I'm currently working with Front-end development.
   </span>
  </li>
 </ul>
 
-# <img src="./icons/stack.svg" width="38px" align="center" /> Tech Stack
+<div align="center">
+ 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-77133E?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-77133E?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-77133E?style=flat&logo=react)&nbsp;
@@ -37,33 +29,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-77133E?style=flat&logo=github)&nbsp;
 ![Gitlab](https://img.shields.io/badge/-Gitlab-77133E?style=flat&logo=gitlab)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-77133E?style=flat&logo=postgresql)&nbsp;
+ 
+</div>
 
-# <img src="./icons/github.svg" width="38px" align="center" /> GitHub Analytics
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=alexandredev3&show_icons=true&theme=great-gatsby" alt="alexandre's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandredev3&layout=compact&theme=great-gatsby" alt="alexandre's most languages"/>
-
-# <img src="./icons/hashtag.svg" width="38px" align="center" /> Let's connect!
-
-<ul>
- <li>
-  <span>
-   <img src="./icons/gmail.svg" width="16px" align="center" />
-   <a href="mailto:contado.alexandre.costa@gmail.com" target="_blank">contado.alexandre.costa@gmail.com</a>
-  </span>
- </li>
- <li>
-  <span>
-   <img src="./icons/linkedin.svg" width="16px" align="center" />
-   <a href="https://www.linkedin.com/in/alexandre-costa-dos-santos/" target="_blank">Alexandre Costa Dos Santos</a>
-  </span>
- </li>
- <li>
-  <span>
-   <img src="./icons/twitter.svg" width="16px" align="center" />
-   <a href="https://twitter.com/alexandredevv" target="_blank">alexandredevv</a>
-  </span>
- </li>
-</ul>
+#### Let's connect!
 
 <a href="mailto:contado.alexandre.costa@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-contado.alexandre.costa@gmail.com-77133E?style=flat&logo=gmail" alt="gmail"/>  
@@ -74,3 +43,7 @@
 <a href="https://twitter.com/alexandredevv" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-alexandre-77133E?style=flat&logo=twitter" alt="twitter"/>  
 </a>
+
+#### GitHub Analytics
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=alexandredev3&show_icons=true&theme=great-gatsby" alt="alexandre's stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandredev3&layout=compact&theme=great-gatsby" alt="alexandre's most languages"/>
