@@ -1,5 +1,5 @@
 <h2>
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="56"> Hey, I'm Alexandre!
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="48"> Hey, I'm Alexandre!
 </h2>
 
 <ul>
