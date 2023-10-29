@@ -10,7 +10,7 @@
  </li>
  <li>
   <span>
-   ⚛️ I'm currently working with Front-end development.
+   ⚛️ I'm currently working with fullstack development.
   </span>
  </li>
 </ul>
@@ -42,7 +42,3 @@
 <a href="https://stackoverflow.com/users/14507918/alexandre-costa" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-StackOverflow-77133E?style=flat&logo=stackoverflow" alt="stackoverflow"/>  
 </a>
-
-#### 📊 GitHub Analytics
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=alexandredev3&show_icons=true&theme=great-gatsby" alt="alexandre's stats"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandredev3&layout=compact&theme=great-gatsby" alt="alexandre's most languages"/>
