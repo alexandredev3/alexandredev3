@@ -5,7 +5,7 @@
 <ul>
  <li>
   <span>
-   👨‍💻 I'm a Web Developer.
+   👨‍💻 I'm a Software Developer.
   </span>
  </li>
  <li>
@@ -28,7 +28,7 @@
 ![Gitlab](https://img.shields.io/badge/-Gitlab-77133E?style=flat&logo=gitlab)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-77133E?style=flat&logo=postgresql)&nbsp;
 
-#### 🙋‍♂️ Let's connect!
+#### 👥 Social
 
 <a href="mailto:contado.alexandre.costa@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Email-77133E?style=flat&logo=gmail" alt="gmail"/>  
