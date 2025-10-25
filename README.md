@@ -1,16 +1,11 @@
 <h2>
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="48"> Hey, I'm Alexandre!
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="48"> Hi, I'm Alexandre!
 </h2>
 
 <ul>
  <li>
   <span>
-   👨‍💻 I'm a Software Developer.
-  </span>
- </li>
- <li>
-  <span>
-   ⚛️ I'm currently working with fullstack development.
+   👨‍💻 I'm a Software Enginner.
   </span>
  </li>
 </ul>
